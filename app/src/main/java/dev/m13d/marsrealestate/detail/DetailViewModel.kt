@@ -19,7 +19,6 @@ package dev.m13d.marsrealestate.detail
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
-import dev.m13d.marsrealestate.detail.DetailFragment
 import dev.m13d.marsrealestate.network.MarsProperty
 
 /**
